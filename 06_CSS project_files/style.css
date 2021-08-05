@@ -1,0 +1,11 @@
+h2 {
+    color: hotpink;
+    cursor: pointer;
+    border: solid black 2px;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
